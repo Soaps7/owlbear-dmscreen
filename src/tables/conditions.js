@@ -24,17 +24,8 @@ export const conditions = () => {
           <td>Automatically fail any ability check that requires hearing.</td>
         </tr>
         <tr>
-          <td>Exhaustion</td>
-          <td>
-            <ol>
-              <li>Disadvantage on ability checks.</li>
-              <li>Speed is halved.</li>
-              <li>Disadvantage on attack rolls and saving throws.</li>
-              <li>Max HP is halved.</li>
-              <li>Speed is reduced to 0.</li>
-              <li>Death.</li>
-            </ol>
-          </td>
+          <td>Exhaustion levels 1-10</td>
+          <td>Get a -1 to ability checks, attack rolls and saving throws for each level of exhaustions you have.
         </tr>
         <tr>
           <td>Falling</td>
