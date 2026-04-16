@@ -25,7 +25,7 @@ export const actionList = () => {
         </tr>
         <tr>
           <td>Disengage</td>
-          <td>Your movement does not provoke opportunity attacks for the turn.</td>
+          <td>Your movement does not provoke opportunity attacks and you add extra 10 feet to it for the turn.</td>
         </tr>
         <tr>
           <td>Dodge</td>
